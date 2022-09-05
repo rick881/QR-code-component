@@ -42,8 +42,9 @@ body {
     transform: scale(1.1);
 }
 
-h3 {
+h1 {
     font-weight: 700;
+    font-size: 19px;
     color: hsl(218, 44%, 22%);
     margin: 20px auto;
     width: 230px;
